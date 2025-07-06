@@ -106,9 +106,8 @@ You can use the provided PowerShell script from the project root to start all se
 
 ## Output
 
-Below is a screenshot of the modern floating chat widget UI in action:
-
-![Chatbot UI Screenshot](screenshot.png)
+Below is a screenshot of the modern floatitou
+chatbotoutput.jpg
 
 - The chat widget features a gradient header, avatar, chat title, online status, and a stylish input area.
 - The UI is centered, rectangular with slightly rounded corners, and fully responsive.
