@@ -129,7 +129,3 @@ Below is a screenshot of the modern floating chat widget UI in action:
 - Build the React frontend for production with `npm run build` and serve with any static server.
 
 ---
-
-## License
-
-MIT
